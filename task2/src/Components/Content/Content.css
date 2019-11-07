@@ -1,0 +1,21 @@
+h2{
+    color: #fff;
+}
+.aboutUs {
+    color: #fff;
+    margin-bottom: 40px;
+}
+.aboutUs .container {
+    max-width: 1000px;
+}
+.card{
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    min-width: 230px;
+}
+.card img{
+    height: 200px;
+    width: auto;
+}

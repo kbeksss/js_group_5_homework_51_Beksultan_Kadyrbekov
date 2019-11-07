@@ -1,0 +1,27 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+}
+.main-header{
+    background: rgba(99,99,99,0.89);
+}
+.main-header__container{
+    display: flex;
+    justify-content: space-between;
+}
+.main-header ul{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+.main-header li{
+    list-style: none;
+    margin: 0 10px;
+}
+.main-header a{
+    text-decoration: none;
+    color: #fff;
+}
